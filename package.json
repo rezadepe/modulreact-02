@@ -2,6 +2,7 @@
   "name": "modulreact-02",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rezadepe.github.io/modulreact-02",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
